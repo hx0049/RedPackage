@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">抢红包</string>
+    <string name="tips">打开后即可自助抢红包，在非黑屏状态下自动抢红包，黑屏状态下会有震动，提示音提醒你有红包了，如果当前聊天页面收到红包需要您自己点击红包，软件自动帮你打开红包，目前只支持微信红包！</string>
+</resources>
